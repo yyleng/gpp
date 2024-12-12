@@ -1,1 +1,2 @@
-add_subdirectory(2.1_function_template)
+add_subdirectory(2_the_basic_of_template)
+add_subdirectory(3_the_improve_of_template)

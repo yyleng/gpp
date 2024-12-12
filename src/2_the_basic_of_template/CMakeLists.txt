@@ -1,0 +1,7 @@
+add_subdirectory(2.1_function_template)
+add_subdirectory(2.2_class_template)
+add_subdirectory(2.3_friend_in_class_template)
+add_subdirectory(2.4_variadic_template)
+add_subdirectory(2.5_polymorphism_in_template)
+add_subdirectory(2.6_special_derive_in_template)
+add_subdirectory(2.7_template_in_project)
